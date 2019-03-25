@@ -2,6 +2,7 @@ package vt.cs;
 
 import org.deeplearning4j.nn.multilayer.MultiLayerNetwork;
 import org.deeplearning4j.util.ModelSerializer;
+import org.eclipse.jdt.core.ToolFactory;
 import org.nd4j.linalg.api.ndarray.INDArray;
 import org.nd4j.linalg.factory.Nd4j;
 
@@ -11,7 +12,7 @@ import java.util.concurrent.TimeUnit;
 
 public class CCLearner_Test {
 
-    public static String config_file = "/home/cclearner/Desktop/CCLearner/CCLearner.conf";
+    public static String config_file = "../CCLearner.conf";
 
     public static String source_file_path;
     public static String clone_file_path;
@@ -22,6 +23,7 @@ public class CCLearner_Test {
 
     public static ArrayList<File> files = new ArrayList<>();
     public static MethodList methodVectorList = new MethodList();
+    public static ToolFactory n = new ToolFactory();
     public static ASTParserTool ASTparserTool = new ASTParserTool();
 
     public static MethodSimilarity methodSim = new MethodSimilarity();
@@ -43,6 +45,7 @@ public class CCLearner_Test {
 
     public static void Load_Config(){
         try {
+            n = new ToolFactory();
             Properties prop = new Properties();
             InputStream is = new FileInputStream(config_file);
 

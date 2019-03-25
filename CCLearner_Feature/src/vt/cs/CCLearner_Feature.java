@@ -8,7 +8,7 @@ import java.util.concurrent.TimeUnit;
 
 public class CCLearner_Feature {
 
-    public static String config_file = "/home/cclearner/Desktop/CCLearner/CCLearner.conf";
+    public static String config_file = "../CCLearner.conf";
 
 	public static String connURL;
 	public static String userName;
@@ -110,8 +110,16 @@ public class CCLearner_Feature {
             res = stat.executeQuery(sql);
             rsmd = res.getMetaData();
 
-            true_writer = new PrintWriter(output_dir + String.valueOf(i + 1) + ".csv", "UTF-8");
-            false_writer = new PrintWriter(output_dir + "N" + String.valueOf(i + 1) + ".csv", "UTF-8");
+            File file_true = new File(output_dir + String.valueOf(i + 1) + ".csv");
+            File file_false = new File(output_dir + "N" + String.valueOf(i + 1) + ".csv");
+            try {
+                file_true.createNewFile();
+                file_false.createNewFile();
+            } catch (IOException e1) {
+                e1.printStackTrace();
+            }
+            true_writer = new PrintWriter(file_true, "UTF-8");
+            false_writer = new PrintWriter(file_false, "UTF-8");
 
             int count = 0;
 

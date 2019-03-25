@@ -29,7 +29,7 @@ import java.util.concurrent.TimeUnit;
 
 public class CCLearner_Train {
 
-    public static String config_file = "/home/cclearner/Desktop/CCLearner/CCLearner.conf";
+    public static String config_file = "../CCLearner.conf";
 
     public static String training_file;
 
