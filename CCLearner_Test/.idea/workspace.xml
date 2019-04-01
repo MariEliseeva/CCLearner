@@ -2,30 +2,421 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="CCLearner_Test:jar" />
+      <artifact name="1:jar" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e941909-c9cd-4e6f-b818-9958f8ba733c" name="Default" comment="" />
+    <list default="true" id="7e3b2a7e-e611-4efa-a8e5-d4686cb86c66" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../CCLearner.conf" beforeDir="false" afterPath="$PROJECT_DIR$/../CCLearner.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/CCLearner_Test_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/CCLearner_Lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org_deeplearning4j_deeplearning4j_core_0_4_rc3_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org_nd4j_canova_nd4j_common_0_0_0_15.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/org_nd4j_nd4j_native_0_4_rc3_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/CCLearner_Test.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/annotations-2.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/antlr-4.5-complete.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/canova-api-0.0.0.15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/canova-data-image-0.0.0.15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/canova-nd4j-common-0.0.0.15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/canova-nd4j-image-0.0.0.15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/common-image-3.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/common-io-3.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/common-lang-3.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/commons-compress-1.8.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/commons-compress-1.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/commons-io-2.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/commons-lang3-3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/commons-lang3-3.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/commons-math3-3.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/commons-math3-3.4.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/deeplearning4j-core-0.4-rc3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/guava-11.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/guava-18.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/imageio-bmp-3.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/imageio-core-3.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/imageio-jpeg-3.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/imageio-metadata-3.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/imageio-psd-3.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/imageio-tiff-3.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/jackson-annotations-2.5.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/jackson-annotations-2.5.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/jackson-core-2.5.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/jackson-databind-2.5.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/jackson-dataformat-yaml-2.5.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/jai-imageio-core-1.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/javacpp-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/javacv-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/javassist-3.19.0-GA.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/json-20131018.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/jsr305-1.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/logback-classic-1.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/logback-core-1.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/lombok-1.16.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/nd4j-api-0.4-rc3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/nd4j-buffer-0.4-rc3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/nd4j-common-0.4-rc3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/nd4j-context-0.4-rc3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/nd4j-native-0.4-rc3.9-linux-x86_64.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/nd4j-native-0.4-rc3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/nd4j-native-api-0.4-rc3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/netty-buffer-4.0.28.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/netty-common-4.0.28.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/opencv-3.1.0-1.2-linux-x86_64.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/opencv-3.1.0-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/org.eclipse.core.contenttype-3.4.200.v20140207-1251.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/org.eclipse.core.jobs-3.6.0.v20140424-0053.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/org.eclipse.core.resources-3.9.1.v20140825-1431.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/org.eclipse.core.runtime-3.10.0.v20140318-2214.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/org.eclipse.equinox.common-3.6.200.v20130402-1505.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/org.eclipse.equinox.preferences-3.5.200.v20140224-1527.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/org.eclipse.osgi-3.10.1.v20140909-1633.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/org.eclipses.jdt.core-3.3.0-v_771.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/postgresql-9.4.1208.jre6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/reflections-0.9.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/slf4j-api-1.7.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/slf4j-api-1.7.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/slf4j-api-1.7.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/snakeyaml-1.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CCLearner_Test_jar/xz-1.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/ASTParserTool$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/ASTParserTool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/CCLearner_Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8BaseListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Lexer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Listener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$AdditionalBoundContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$AdditiveExpressionContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$AmbiguousNameContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$AndExpressionContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$AnnotationContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$AnnotationTypeBodyContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$AnnotationTypeDeclarationContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$AnnotationTypeElementDeclarationContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$AnnotationTypeElementModifierContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$AnnotationTypeMemberDeclarationContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ArgumentListContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ArrayAccessContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ArrayAccess_lf_primaryContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ArrayAccess_lfno_primaryContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ArrayCreationExpressionContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ArrayInitializerContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ArrayTypeContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$AssertStatementContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$AssignmentContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$AssignmentExpressionContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$AssignmentOperatorContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$BasicForStatementContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$BasicForStatementNoShortIfContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$BlockContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$BlockStatementContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$BlockStatementsContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$BreakStatementContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$CastExpressionContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$CatchClauseContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$CatchFormalParameterContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$CatchTypeContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$CatchesContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ClassBodyContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ClassBodyDeclarationContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ClassDeclarationContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ClassInstanceCreationExpressionContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ClassInstanceCreationExpression_lf_primaryContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ClassInstanceCreationExpression_lfno_primaryContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ClassMemberDeclarationContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ClassModifierContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ClassOrInterfaceTypeContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ClassTypeContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ClassType_lf_classOrInterfaceTypeContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ClassType_lfno_classOrInterfaceTypeContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$CompilationUnitContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ConditionalAndExpressionContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ConditionalExpressionContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ConditionalOrExpressionContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ConstantDeclarationContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ConstantExpressionContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ConstantModifierContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ConstructorBodyContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ConstructorDeclarationContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ConstructorDeclaratorContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ConstructorModifierContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ContinueStatementContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$DefaultValueContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$DimExprContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$DimExprsContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$DimsContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$DoStatementContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ElementValueArrayInitializerContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ElementValueContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ElementValueListContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ElementValuePairContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ElementValuePairListContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$EmptyStatementContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$EnhancedForStatementContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$EnhancedForStatementNoShortIfContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$EnumBodyContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$EnumBodyDeclarationsContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$EnumConstantContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$EnumConstantListContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$EnumConstantModifierContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$EnumConstantNameContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$EnumDeclarationContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$EqualityExpressionContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ExceptionTypeContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ExceptionTypeListContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ExclusiveOrExpressionContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ExplicitConstructorInvocationContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ExpressionContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ExpressionNameContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ExpressionStatementContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ExtendsInterfacesContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$FieldAccessContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$FieldAccess_lf_primaryContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$FieldAccess_lfno_primaryContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$FieldDeclarationContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$FieldModifierContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$Finally_Context.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$FloatingPointTypeContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ForInitContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ForStatementContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ForStatementNoShortIfContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ForUpdateContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$FormalParameterContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$FormalParameterListContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$FormalParametersContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$IfThenElseStatementContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$IfThenElseStatementNoShortIfContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$IfThenStatementContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ImportDeclarationContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$InclusiveOrExpressionContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$InferredFormalParameterListContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$InstanceInitializerContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$IntegralTypeContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$InterfaceBodyContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$InterfaceDeclarationContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$InterfaceMemberDeclarationContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$InterfaceMethodDeclarationContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$InterfaceMethodModifierContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$InterfaceModifierContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$InterfaceTypeContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$InterfaceTypeListContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$InterfaceType_lf_classOrInterfaceTypeContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$InterfaceType_lfno_classOrInterfaceTypeContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$LabeledStatementContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$LabeledStatementNoShortIfContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$LambdaBodyContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$LambdaExpressionContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$LambdaParametersContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$LastFormalParameterContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$LeftHandSideContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$LiteralContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$LocalVariableDeclarationContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$LocalVariableDeclarationStatementContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$MarkerAnnotationContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$MethodBodyContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$MethodDeclarationContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$MethodDeclaratorContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$MethodHeaderContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$MethodInvocationContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$MethodInvocation_lf_primaryContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$MethodInvocation_lfno_primaryContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$MethodModifierContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$MethodNameContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$MethodReferenceContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$MethodReference_lf_primaryContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$MethodReference_lfno_primaryContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$MultiplicativeExpressionContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$NormalAnnotationContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$NormalClassDeclarationContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$NormalInterfaceDeclarationContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$NumericTypeContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$PackageDeclarationContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$PackageModifierContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$PackageNameContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$PackageOrTypeNameContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$PostDecrementExpressionContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$PostDecrementExpression_lf_postfixExpressionContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$PostIncrementExpressionContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$PostIncrementExpression_lf_postfixExpressionContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$PostfixExpressionContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$PreDecrementExpressionContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$PreIncrementExpressionContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$PrimaryContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$PrimaryNoNewArrayContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$PrimaryNoNewArray_lf_arrayAccessContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$PrimaryNoNewArray_lf_primaryContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$PrimaryNoNewArray_lf_primary_lf_arrayAccess_lf_primaryContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$PrimaryNoNewArray_lf_primary_lfno_arrayAccess_lf_primaryContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$PrimaryNoNewArray_lfno_arrayAccessContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$PrimaryNoNewArray_lfno_primaryContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$PrimaryNoNewArray_lfno_primary_lf_arrayAccess_lfno_primaryContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$PrimaryNoNewArray_lfno_primary_lfno_arrayAccess_lfno_primaryContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$PrimitiveTypeContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ReceiverParameterContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ReferenceTypeContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$RelationalExpressionContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ResourceContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ResourceListContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ResourceSpecificationContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ResultContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ReturnStatementContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ShiftExpressionContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$SimpleTypeNameContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$SingleElementAnnotationContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$SingleStaticImportDeclarationContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$SingleTypeImportDeclarationContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$StatementContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$StatementExpressionContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$StatementExpressionListContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$StatementNoShortIfContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$StatementWithoutTrailingSubstatementContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$StaticImportOnDemandDeclarationContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$StaticInitializerContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$SuperclassContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$SuperinterfacesContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$SwitchBlockContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$SwitchBlockStatementGroupContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$SwitchLabelContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$SwitchLabelsContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$SwitchStatementContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$SynchronizedStatementContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$ThrowStatementContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$Throws_Context.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$TryStatementContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$TryWithResourcesStatementContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$TypeArgumentContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$TypeArgumentListContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$TypeArgumentsContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$TypeArgumentsOrDiamondContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$TypeBoundContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$TypeContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$TypeDeclarationContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$TypeImportOnDemandDeclarationContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$TypeNameContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$TypeParameterContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$TypeParameterListContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$TypeParameterModifierContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$TypeParametersContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$TypeVariableContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$UnannArrayTypeContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$UnannClassOrInterfaceTypeContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$UnannClassTypeContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$UnannClassType_lf_unannClassOrInterfaceTypeContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$UnannClassType_lfno_unannClassOrInterfaceTypeContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$UnannInterfaceTypeContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$UnannInterfaceType_lf_unannClassOrInterfaceTypeContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$UnannInterfaceType_lfno_unannClassOrInterfaceTypeContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$UnannPrimitiveTypeContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$UnannReferenceTypeContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$UnannTypeContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$UnannTypeVariableContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$UnaryExpressionContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$UnaryExpressionNotPlusMinusContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$VariableDeclaratorContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$VariableDeclaratorIdContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$VariableDeclaratorListContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$VariableInitializerContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$VariableInitializerListContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$VariableModifierContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$WhileStatementContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$WhileStatementNoShortIfContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$WildcardBoundsContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser$WildcardContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/Java8Parser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/MethodList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/MethodSimilarity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/MethodTokenParserTool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/MethodVector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/TokenList$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/TokenList$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/TokenList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CCLearner_Test/vt/cs/TokenVector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vt/cs/ASTParserTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vt/cs/ASTParserTool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vt/cs/CCLearner_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vt/cs/CCLearner_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vt/cs/Java8BaseListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vt/cs/Java8BaseListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vt/cs/Java8Lexer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vt/cs/Java8Lexer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vt/cs/Java8Listener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vt/cs/Java8Listener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vt/cs/Java8Parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vt/cs/Java8Parser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vt/cs/MethodList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vt/cs/MethodList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vt/cs/MethodSimilarity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vt/cs/MethodSimilarity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vt/cs/MethodTokenParserTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vt/cs/MethodTokenParserTool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vt/cs/MethodVector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vt/cs/MethodVector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vt/cs/TokenList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vt/cs/TokenList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vt/cs/TokenVector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vt/cs/TokenVector.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="1" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="1" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="1" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="1" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CCLearner_Test.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/vt/cs/CCLearner_Test.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/vt/cs/CCLearner_Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="499">
-              <caret line="244" column="45" lean-forward="false" selection-start-line="244" selection-start-column="45" selection-end-line="244" selection-end-column="45" />
+            <state relative-caret-position="180">
+              <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -34,90 +425,107 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>deeplearning4j-core-0.4-rc3.9.jar</find>
+      <find>source_file_path</find>
+      <find>ClonePairChecking</find>
+      <find>testing_folder</find>
+      <find>GetAllMethodsFromFiles();</find>
+      <find>GetAllMethodsFromFiles</find>
     </findStrings>
   </component>
-  <component name="GradleLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/vt/cs/ASTParserTool.java" />
-        <option value="$PROJECT_DIR$/src/vt/cs/Java8BaseListener.java" />
-        <option value="$PROJECT_DIR$/src/vt/cs/Java8Lexer.java" />
-        <option value="$PROJECT_DIR$/src/vt/cs/Java8Listener.java" />
-        <option value="$PROJECT_DIR$/src/vt/cs/Java8Parser.java" />
-        <option value="$PROJECT_DIR$/src/vt/cs/MethodList.java" />
-        <option value="$PROJECT_DIR$/src/vt/cs/MethodSimilarity.java" />
-        <option value="$PROJECT_DIR$/src/vt/cs/MethodTokenParserTool.java" />
-        <option value="$PROJECT_DIR$/src/vt/cs/MethodVector.java" />
-        <option value="$PROJECT_DIR$/src/vt/cs/TokenList.java" />
-        <option value="$PROJECT_DIR$/src/vt/cs/TokenVector.java" />
-        <option value="$PROJECT_DIR$/CCLearner_Test.iml" />
-        <option value="$PROJECT_DIR$/src/vt/cs/CCLearner_Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/vt/cs/CCLearner_Test.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="39" />
-    <option name="y" value="24" />
-    <option name="width" value="1401" />
-    <option name="height" value="762" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="CCLearner_Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CCLearner_Test" type="462c0819:PsiDirectoryNode" />
+              <item name="1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CCLearner_Test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="CCLearner_Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CCLearner_Test" type="462c0819:PsiDirectoryNode" />
+              <item name="1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CCLearner_Test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name=".gradle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CCLearner_Test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CCLearner_Test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="libs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CCLearner_Test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="CCLearner_Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CCLearner_Test" type="462c0819:PsiDirectoryNode" />
+              <item name="1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CCLearner_Test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CCLearner_Test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CCLearner_Test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cs" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554035682095" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.1150748" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/postgresql-9.4.1208.jre6.jar!/" />
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.remoteExternalTools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -131,459 +539,236 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CCLearner_Test">
+  <component name="RunManager" selected="Gradle.CCLearner_Test [clean]">
     <configuration name="CCLearner_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+      <option name="MAIN_CLASS_NAME" value="vt.cs.CCLearner_Test" />
+      <module name="1.main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="vt.cs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="vt.cs.CCLearner_Test" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="CCLearner_Test" />
-      <envs />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-    </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
-      <module name="" />
-      <option name="DEPLOY" value="true" />
-      <option name="ARTIFACT_NAME" value="" />
-      <option name="PM_INSTALL_OPTIONS" value="" />
-      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
-      <option name="MODE" value="default_activity" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="DEBUGGER_TYPE" value="Java" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <Java />
-      <Profilers>
-        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
-        <option name="GAPID_ENABLED" value="false" />
-        <option name="GAPID_DISABLE_PCS" value="false" />
-        <option name="SUPPORT_LIB_ENABLED" value="true" />
-        <option name="INSTRUMENTATION_ENABLED" value="true" />
-      </Profilers>
-      <option name="DEEP_LINK" value="" />
-      <option name="ACTIVITY_CLASS" value="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
-      <module name="" />
-      <option name="TESTING_TYPE" value="0" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="EXTRA_OPTIONS" value="" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="DEBUGGER_TYPE" value="Java" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <Java />
-      <Profilers>
-        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
-        <option name="GAPID_ENABLED" value="false" />
-        <option name="GAPID_DISABLE_PCS" value="false" />
-        <option name="SUPPORT_LIB_ENABLED" value="true" />
-        <option name="INSTRUMENTATION_ENABLED" value="true" />
-      </Profilers>
-      <method />
-    </configuration>
-    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+    <configuration name="CCLearner_Test [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
-        <option name="externalProjectPath" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
         <option name="scriptParameters" />
         <option name="taskDescriptions">
           <list />
         </option>
         <option name="taskNames">
-          <list />
+          <list>
+            <option value="build" />
+          </list>
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
-      <method />
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
     </configuration>
-    <configuration default="true" type="JarApplication" factoryName="JAR Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <envs />
-      <method />
+    <configuration name="CCLearner_Test [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
     </configuration>
-    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SCRATCH_FILE_ID" value="0" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
+    <configuration name="CCLearner_Test [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="CCLearner_Test" />
-      <envs />
-      <method />
+    <configuration name="CCLearner_Test [run]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="run" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <envs />
-      <method />
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Application.CCLearner_Test" />
+      <list>
+        <item itemvalue="Gradle.CCLearner_Test [jar]" />
+        <item itemvalue="Gradle.CCLearner_Test [build]" />
+        <item itemvalue="Gradle.CCLearner_Test [clean]" />
+        <item itemvalue="Gradle.CCLearner_Test [run]" />
+        <item itemvalue="Application.CCLearner_Test" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../dir/scala-2018" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../scala-2018" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1e941909-c9cd-4e6f-b818-9958f8ba733c" name="Default" comment="" />
-      <created>1498495173177</created>
+      <changelist id="7e3b2a7e-e611-4efa-a8e5-d4686cb86c66" name="Default Changelist" comment="" />
+      <created>1553804924310</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1498495173177</updated>
+      <updated>1553804924310</updated>
+      <workItem from="1553804925818" duration="324000" />
+      <workItem from="1553805263059" duration="6267000" />
+      <workItem from="1553949056686" duration="3590000" />
+      <workItem from="1553977348199" duration="187000" />
+      <workItem from="1553977695495" duration="119000" />
+      <workItem from="1553978051640" duration="3050000" />
     </task>
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13537000" />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="39" y="24" width="1401" height="762" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293348" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24982156" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26752505" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="File Transfer" weight="0.32891566" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49928468" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49928468" weight="0.32891566" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Tool Output" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5007153" side_tool="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="ANTLR Preview" order="14" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.32891566" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Remote Host" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Gradle" order="7" weight="0.3297568" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
     </layout>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
-  </component>
-  <component name="antWorkspaceConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
-    <option name="FILTER_TARGETS" value="false" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/vt/cs/CCLearner_Test.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/vt/cs/Java8Parser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="30">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/vt/cs/CCLearner_Test.java">
+    <entry file="file://$PROJECT_DIR$/../BigCloneBench/era_bcb_sample/2/default/101.java" />
+    <entry file="file://$PROJECT_DIR$/gradlew">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew.bat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/vt/cs/CCLearner_Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="180">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/vt/cs/CCLearner_Test.java">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1386">
-          <caret line="85" column="37" lean-forward="true" selection-start-line="85" selection-start-column="37" selection-end-line="85" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/vt/cs/CCLearner_Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/vt/cs/CCLearner_Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/vt/cs/CCLearner_Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/vt/cs/CCLearner_Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/vt/cs/Java8BaseListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/vt/cs/Java8Lexer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/vt/cs/Java8Listener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/vt/cs/MethodList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/vt/cs/MethodSimilarity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/vt/cs/MethodTokenParserTool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="31" lean-forward="false" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/vt/cs/MethodVector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/vt/cs/TokenVector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/vt/cs/TokenList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/vt/cs/Java8Parser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-720">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/src/vt/cs/ASTParserTool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CCLearner_Test.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/META-INF/MANIFEST.MF">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="49" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/vt/cs/CCLearner_Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="499">
-          <caret line="244" column="45" lean-forward="false" selection-start-line="244" selection-start-column="45" selection-end-line="244" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="195">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -593,11 +778,11 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>CCLearner_Test:jar</last-edited>
+          <last-edited>1:jar</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.1150748" />
+                <option value="0.2" />
                 <option value="0.5" />
               </list>
             </option>
@@ -610,7 +795,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.48735633" />
+                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>
@@ -641,12 +826,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>CCLearner_Test</last-edited>
+          <last-edited>1</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.48735633" />
-                <option value="0.6" />
+                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>
@@ -654,7 +838,7 @@
       </state>
       <state key="ProjectJDKs.UI">
         <settings>
-          <last-edited>1.7</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -666,11 +850,22 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>org.nd4j:nd4j-native:0.4-rc3.9</last-edited>
+          <last-edited>Gradle: com.clearspring.analytics:stream:2.7.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.1150748" />
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>
